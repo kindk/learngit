@@ -8,5 +8,6 @@ git diff 	<file> : cat the difference of <file> between stage or repo. and local
 git status
 git log 	: cat the previous commit command 
 git reflog	: cat the previous git operation
+git reset 	--hard commit_id     HEAD^  : last version   HEAD^^ last last version    HEAD~100 last 100 version
 
 
