@@ -1,0 +1,8 @@
+git init   : init a repository
+git config --global user.name "kindk"
+git config --global user.email "kindk0000@gmail.com"
+
+git add <file> : add file to stage
+git commit -m "comment" : commit changing to repo.
+
+
