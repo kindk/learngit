@@ -11,7 +11,9 @@ git reflog	: cat the previous git operation
 git reset 	--hard commit_id     HEAD^  : last version   HEAD^^ last last version    HEAD~100 last 100 version
 git check 	-- <file>  : disert changing .
 git reset 	HEAD <file> : make stage to unstage
-
-
+git rm 		<file>
+ssh-keygen -t rsa -C "kindk0000@gmail.com"
+git remote add origin git@github.com:kindk/learngit.git
+git push -u origin master
 
 
