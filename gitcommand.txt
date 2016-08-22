@@ -23,4 +23,5 @@ git branch 	: cat all branches
 git checkout dev : cd  to branch dev
 git merge dev	: merge dev to master
 git branch -d dev : delete branch dev
+git log --graph --pretty=online --abbrev-commit   : cat commit and branch in graph mode
 
