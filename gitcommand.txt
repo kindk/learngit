@@ -21,4 +21,6 @@ git clone git@github.com:kindk/git2.git
 git checkout -b dev   :  create and cd to new branch dev.
 git branch 	: cat all branches
 git checkout dev : cd  to branch dev
+git merge dev	: merge dev to master
+git branch -d dev : delete branch dev
 
