@@ -1,8 +1,10 @@
-git init   : init a repository
-git config --global user.name "kindk"
-git config --global user.email "kindk0000@gmail.com"
+git init   	: init a repository
+git config 	--global user.name "kindk"
+git config 	--global user.email "kindk0000@gmail.com"
 
-git add <file> : add file to stage
-git commit -m "comment" : commit changing to repo.
+git add 	<file> : add file to stage
+git commit 	-m "comment" : commit changing to repo.
+git diff 	<file> : cat the difference of <file> between stage or repo. and local file.
+git status
 
 
