@@ -14,6 +14,11 @@ git reset 	HEAD <file> : make stage to unstage
 git rm 		<file>
 ssh-keygen -t rsa -C "kindk0000@gmail.com"
 git remote add origin git@github.com:kindk/learngit.git
-git push -u origin master
+git push -u origin master  : the first time to push 
+git push origin master  : push 
+git clone git@github.com:kindk/git2.git
 
+git checkout -b dev   :  create and cd to new branch dev.
+git branch 	: cat all branches
+git checkout dev : cd  to branch dev
 
