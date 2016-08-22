@@ -6,5 +6,7 @@ git add 	<file> : add file to stage
 git commit 	-m "comment" : commit changing to repo.
 git diff 	<file> : cat the difference of <file> between stage or repo. and local file.
 git status
+git log 	: cat the previous commit command 
+git reflog	: cat the previous git operation
 
 
